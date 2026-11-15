@@ -9,7 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "typecheck": "tsc -b",
-    "test": "vitest run"
+    "test": "TZ=Asia/Dhaka vitest run"
   },
   "dependencies": {
     "date-fns": "^4.4.0",
