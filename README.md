@@ -47,7 +47,7 @@ Each activity can choose Off, at start, 5/10/15/30 minutes before, or a custom l
 Requirements: Node.js 24 and npm. Tested on macOS 27.0.1 with Node 24.13.0.
 
 ```bash
-npm ci
+npm install
 npm run dev
 ```
 
