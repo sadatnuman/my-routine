@@ -14,21 +14,11 @@ Your day, organized. A private, offline-first routine planner for iPhone and Mac
 - Light, dark and system themes; 12-hour and 24-hour time formats.
 - No account, ads, analytics, remote database or paid service.
 
-## Default routine
+## Using the app
 
-The initial routine uses Asia/Dhaka wall-clock times. The app reads the device's local clock, so set the device time zone to Asia/Dhaka for the intended schedule. Changes to the default are seeded only on first use; app updates never replace saved edits.
+My Routine starts with a weekly schedule covering work, study, fitness, waking up and bedtime. It uses Asia/Dhaka wall-clock times. The app reads the device's local clock, so set your device time zone to Asia/Dhaka for the intended schedule. You can change, disable, duplicate or remove any activity in the app. Saved edits are never replaced by an app update.
 
-| Day | Activities |
-| --- | --- |
-| Saturday | 9:00 AM Wake Up; 10:00 AM–6:00 PM Office; 6:30–8:30 PM IELTS Class; 12:00–1:00 AM early Sunday Bedtime Window |
-| Sunday | 9:00 AM Wake Up; 10:00 AM–12:00 PM Self Study; 2:00–5:00 PM Gym; 8:00–10:00 PM Self Study; 12:00–1:00 AM early Monday Bedtime Window |
-| Monday | Same as Sunday, with bedtime early Tuesday |
-| Tuesday | 9:00 AM Wake Up; 10:00 AM–1:00 PM Gym; 2:00–10:00 PM Work From Home; Flexible Self Study during work breaks; 12:00–1:00 AM early Wednesday Bedtime Window |
-| Wednesday | Same as Tuesday, with bedtime early Thursday |
-| Thursday | Same daytime routine as Tuesday; 12:00 AM early Friday Bedtime Target |
-| Friday | 8:00 AM Wake Up and 8:00 AM–3:00 PM Work From Home (intentional overlap); 4:00–8:30 PM IELTS Class; 12:00–1:00 AM early Saturday Bedtime Window |
-
-The bedtime entry is shown under the prior routine day. Flexible study has no invented time. Sleep entries are informational and excluded from progress by default.
+Flexible activities have no invented start or end time. Overnight entries appear under the prior routine day. Informational sleep entries are excluded from progress by default.
 
 ## Status and reminders
 
