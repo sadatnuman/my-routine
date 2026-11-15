@@ -6,7 +6,8 @@ Your day, organized. A private, offline-first routine planner for iPhone and Mac
 
 - Today dashboard with current activities, next activity, countdown, progress, flexible tasks and overdue tasks.
 - Saturday-to-Friday weekly planner, weekly progress, category filtering, search and calculated open windows.
-- Recurring activity editor with multiple weekdays, optional time or flexible scheduling, overnight entries, notes, reminders, color, tracking and enable/disable controls.
+- Recurring activity editor with multiple weekdays, optional time or flexible scheduling, overnight entries, notes, reminders, color, tracking and enable/disable controls. Inactive activities remain accessible in the planner.
+- Small local illustrations on every activity card, including category pictures for new custom activities. Pictures are available offline.
 - Completion and skip records attached to a calendar date. Repeating templates stay separate from daily records.
 - In-app reminders, app-open summaries and a local notification center with read, dismiss and clear controls.
 - IndexedDB storage, versioned JSON export/import and restore defaults.
